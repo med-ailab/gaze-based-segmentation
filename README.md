@@ -1,3 +1,54 @@
+> **Med AI Lab · Innopolis University**  
+> Code and data released alongside a peer-reviewed publication.  
+> Original repository by [Leila Khaertdinova](https://github.com/leiluk1): <https://github.com/leiluk1/gaze-based-segmentation>
+
+---
+
+Gaze points as prompts for interactive correction of medical image segmentation, on top of MedSAM.
+
+### Paper
+
+- **Gaze Assistance for Efficient Segmentation Correction of Medical Images**  
+  L. Khaertdinova, T. Shmykova, I. Pershin, A. Laryukov, A. Khanov, D. Zidikhanov, B. Ibragimov  
+  *IEEE Access, vol. 13, pp. 14199–14213, 2025 (Q1)* · [link](https://doi.org/10.1109/ACCESS.2025.3530701)
+- **Gaze-Assisted Medical Image Segmentation**  
+  L. Khaertdinova, I. Pershin, T. Shmykova, B. Ibragimov  
+  *NeurIPS 2024, AIM-FM workshop* · [link](https://arxiv.org/abs/2410.17920)
+
+### Citation
+
+```bibtex
+@article{khaertdinova2025gaze,
+  title   = {Gaze Assistance for Efficient Segmentation Correction of Medical Images},
+  author  = {Khaertdinova, Leila and Shmykova, Tatyana and Pershin, Ilya and
+             Laryukov, Andrey and Khanov, Albert and Zidikhanov, Damir and Ibragimov, Bulat},
+  journal = {IEEE Access},
+  volume  = {13},
+  pages   = {14199--14213},
+  year    = {2025},
+  doi     = {10.1109/ACCESS.2025.3530701}
+}
+```
+
+### About the lab
+
+The **Med AI Lab** at Innopolis University works on medical AI in which the clinician is part
+of the system rather than its user: eye tracking of radiologists, gaze as a supervision signal
+for medical imaging, electronic health records, and the modelling of human attention in
+language models.
+
+[Website](https://ilya-pershin.com/lab/) · [Publications](https://ilya-pershin.com/publications/) · [All code](https://github.com/med-ailab) · i.pershin@innopolis.ru
+
+### License
+
+The original repository does not carry a licence file, so no reuse rights are granted
+by default. Before reusing this code, contact the author or the lab.
+
+---
+
+*Everything below is the original README from [leiluk1/gaze-based-segmentation](https://github.com/leiluk1/gaze-based-segmentation), left unchanged.*
+
+---
 # Gaze-Assisted Medical Image Segmentation
 
 ## Overview
